@@ -2,10 +2,13 @@
 ## Following is a solution to the problem given on 14th Juy 2018
 ### Authors: Sudhanva Narayana, Shreyas S
 
+## All .ipynb files can be viewed in the browser
+
 # Dependencies
 
 1.	Python 3.x 
 2.	Numpy, Scipy, Pandas, Matplotlib 
+3.    Jupyter Notebook/Jupyter Labs
 
 # Important Files and Folders
 
